@@ -13,7 +13,7 @@ Useful for security assessments: once source is recovered, you can audit it for 
 ## Install
 
 ```bash
-pipx install git+https://github.com/YOUR_USERNAME/githack.git
+pipx install git+https://github.com/Kraus17th/githack.git
 ```
 
 Update:
